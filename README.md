@@ -25,7 +25,7 @@ Inflated 3D ConvNet (I3D) that is based on 2D ConvNet inflation: filters and poo
 
 The overall network architecture of I3D is shown below:
 
-[link](https://arxiv.org/pdf/1705.07750.pdf)
+[Link](https://arxiv.org/pdf/1705.07750.pdf)
 
 # Dataset
 
